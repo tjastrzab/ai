@@ -25,3 +25,6 @@ where:
   - K         - initial threshold value,
   - in_file   - input file path,
   - out_file  - output file path.
+
+The data directory contains sample benchmark files (languages). Each file is named after the number of words it contains. 
+The first line of every file also contains the language size.
